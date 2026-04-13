@@ -6,7 +6,7 @@ lz4==3.1.0
 mock==4.0.2
 py==1.9.0
 pylint==2.6.0
-pytest==6.0.2
+pytest==9.0.3
 pytest-cov==2.10.1
 pytest-mock==3.3.1
 pytest-pylint==0.17.0
